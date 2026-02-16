@@ -1,0 +1,1 @@
+I'm going to build this framework with playwright cucumber. By following the POM design pattern
